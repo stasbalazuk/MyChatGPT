@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.447,=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Delphi\2023\Android My Prj\prj_shablon\Unit1.pas=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,D:\Delphi\2023\Android My Prj\prj_shablon\Project1.dproj=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Delphi\2023\Android My Prj\prj_shablon\Unit1.fmx=C:\Users\STS\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="emulator-5554" Android="emulator-5554"/>
+	</ActiveMobileDevice>
+</BorlandProject>
